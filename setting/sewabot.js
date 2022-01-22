@@ -7,7 +7,7 @@ return `╭──「 *SEWABOT* 」
 │
 ├──「 *PREMIUM* 」
 │
-├❏ 1 MINGGU : 10.000 ( 10K )
+├❏ 1 MINGGU : Gratis ( Free )
 ├❏ 1 BULAN : 15.000 ( 15K )
 ├❏ PERMANEN : 20.000 ( 20K )
 │
